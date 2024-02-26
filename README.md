@@ -26,6 +26,7 @@ Desenvolver um card de email responsivo para newsletter.
 - :balloon: [Node.js](https://nodejs.org/en/download)
 
 ## :paperclip: Recursos Úteis
+- [Figma 101 para desenvolvedores](https://www.figma.com/file/tfRKgwf3CdQkwiO44SlNrK/Figma-101-for-developers-(Community)?type=design&node-id=8%3A135&mode=design&t=7EaL43iCw5piftIh-1)
 - [Vue Docs](https://vuejs.org/guide/introduction.html)
 - [Documentação - Estilizando um componente em Vue](https://vuejs.org/api/sfc-css-features.html)
 - [Documentação - Registrando componentes em Vue](https://vuejs.org/guide/components/registration.html#local-registration)
