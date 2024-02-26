@@ -28,3 +28,4 @@ Desenvolver um card de email responsivo para newsletter.
 ## :paperclip: Recursos Úteis
 - [Vue Docs](https://vuejs.org/guide/introduction.html)
 - [Documentação - Estilizando um componente em Vue](https://vuejs.org/api/sfc-css-features.html)
+- [Documentação - Registrando componentes em Vue](https://vuejs.org/guide/components/registration.html#local-registration)
