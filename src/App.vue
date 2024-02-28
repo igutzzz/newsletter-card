@@ -1,14 +1,19 @@
 
 
 <script setup lang="ts">
-  import EmailInput from './components/EmailInput.vue';
+  import Content from './components/Content.vue';
 </script>
 
 <template>
   <main>
-    <EmailInput/>
+    <Content/>
   </main>
 </template>
 
-<style scoped>
+<style >
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 </style>
