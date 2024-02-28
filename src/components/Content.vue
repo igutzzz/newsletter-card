@@ -89,6 +89,7 @@ import Topics from './Topics.vue';
             display: flex;
             flex-direction: column-reverse;
             width: 100vw;
+            height: 100vh;
             padding: 0;
             padding-bottom: 5rem;
         }
